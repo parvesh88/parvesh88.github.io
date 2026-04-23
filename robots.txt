@@ -2,5 +2,5 @@ User-agent: *
 Disallow: /admin/
 Disallow: /temp/
 
-Sitemap: http://16.171.45.105:9999/sitemap.xml
-Sitemap: http://16.171.45.105:9999/sitemaps.xml
+Sitemap: https://parvesh88.github.io/sitemap.xml
+Sitemap: https://parvesh88.github.io/sitemaps.xml
